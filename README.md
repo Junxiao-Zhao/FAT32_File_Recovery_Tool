@@ -2,7 +2,7 @@
 
 A Tool to recover accidentally deleted files on FAT32 disk. This tool could: 
 
-- Extract the information and accessed files in the disk
+- Extract the information and access files in the disk
 - Recover large contiguously-allocated file
 - Detect ambiguous file recovery requests and recover the right file with SHA-1 hash
 
